@@ -1,0 +1,28 @@
+
+body{
+  
+    background: linear-gradient(to right, #5497b1, #256090);
+
+}
+
+
+.login-form {
+  margin-left: 25%;
+  margin-top: 15%;
+  width: 50%; /* Set width of the form */
+  padding: 50px;
+  height: 50%;
+  background-color: #164668; /* Set background color for the form */
+  border-radius: 10px; /* Add border radius for rounded corners */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+  font-size: larger;
+  font-weight: bold;
+}
+
+.login-form-title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 34px;
+  font-weight: bold;
+  color: #008080; /* Set color for the title */
+}
